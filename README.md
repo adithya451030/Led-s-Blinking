@@ -1,6 +1,6 @@
 unsigned long previousMillis = 0; // Stores last time LED state changed
 
-unsigned long interval = 1000; // Time interval for ON/OFF
+unsigned long interval = 1000; // Time interval for ON/OFF 
 
 int timedelay = 500;
 
